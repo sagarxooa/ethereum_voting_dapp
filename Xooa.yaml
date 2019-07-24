@@ -1,0 +1,9 @@
+Apps:
+  Voting:
+    Name: Voting
+    Description: Solidity Smart Contract using Truffle framework
+    path: ./chapter2
+    mainSolFile: Voting
+    language: solidity
+    truffle: true
+    README: https://github.com/sagarxooa/ethereum_voting_dapp/blob/master/README.md
